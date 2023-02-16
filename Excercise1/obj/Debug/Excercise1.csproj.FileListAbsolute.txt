@@ -1,0 +1,7 @@
+C:\Users\Hej\OneDrive - ViaUC\Semester 3\IT-DNP1\Solution1\Excercise1\bin\Debug\Excercise1.exe
+C:\Users\Hej\OneDrive - ViaUC\Semester 3\IT-DNP1\Solution1\Excercise1\bin\Debug\Excercise1.pdb
+C:\Users\Hej\OneDrive - ViaUC\Semester 3\IT-DNP1\Solution1\Excercise1\obj\Debug\Excercise1.csproj.AssemblyReference.cache
+C:\Users\Hej\OneDrive - ViaUC\Semester 3\IT-DNP1\Solution1\Excercise1\obj\Debug\Excercise1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hej\OneDrive - ViaUC\Semester 3\IT-DNP1\Solution1\Excercise1\obj\Debug\Excercise1.csproj.CoreCompileInputs.cache
+C:\Users\Hej\OneDrive - ViaUC\Semester 3\IT-DNP1\Solution1\Excercise1\obj\Debug\Excercise1.exe
+C:\Users\Hej\OneDrive - ViaUC\Semester 3\IT-DNP1\Solution1\Excercise1\obj\Debug\Excercise1.pdb
